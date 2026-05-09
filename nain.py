@@ -3,7 +3,7 @@ data = dict({
     "age": 30,
     "city": "New York",
     "occupation": "Software Engineer",
-    "salary": 80000.00
+    "salary": "80000"
 })
 
 def main():
